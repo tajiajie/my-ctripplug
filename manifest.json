@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "ctripPlug",
-    "version": "2.4",
+    "version": "3.0",
     "description": "reload for customization",
     "browser_action": {
       "default_icon": {
